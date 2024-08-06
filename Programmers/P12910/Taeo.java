@@ -1,3 +1,5 @@
+package Programmers.P12910;
+
 import java.util.*;
 class Taeo {
     public int[] solution(int[] arr, int divisor) {
