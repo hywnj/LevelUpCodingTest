@@ -1,3 +1,5 @@
+package Baekjoon.B2798;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,7 @@ import java.io.InputStreamReader;
 
 /**
  * 브루트포스 알고리즘
- * 모두 데이터를 순회하는 알고리즘으로 암호화 등 에서 사용되나 ( 사실상 그냥 반복문 중첩 )
+ * 모든 데이터를 순회하는 알고리즘으로 암호화 등 에서 사용되나 ( 사실상 그냥 반복문 중첩 )
  * 데이터가 늘어날수록 성능이 매우 안좋아짐
  * */
 public class JK {

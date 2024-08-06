@@ -1,3 +1,5 @@
+package Programmers.P12903;
+
 public class JK {
     public static void main(String[] args) {
         JK cs = new JK();

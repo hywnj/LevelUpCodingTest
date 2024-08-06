@@ -1,6 +1,8 @@
+package Programmers.P181930;
+
 public class JK {
     public static void main(String[] args) {
-        Dice dice = new Dice();
+        JK dice = new JK();
 
         int result = dice.solution(5, 3, 3);
 

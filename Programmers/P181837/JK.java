@@ -1,3 +1,5 @@
+package Programmers.P181837;
+
 public class JK {
     public int solution(String[] order) {
         //latte의 경우만 확인
