@@ -1,4 +1,3 @@
-package com.klolarion.programmers;
 
 public class JK {
     public String solution(String phone_number) {

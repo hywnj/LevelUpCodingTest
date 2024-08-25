@@ -1,4 +1,4 @@
-package com.klolarion.programmers;
+
 
 public class JK {
         public String solution(String new_id) {

@@ -1,4 +1,3 @@
-package com.klolarion.programmers;
 
 
 import java.util.ArrayList;

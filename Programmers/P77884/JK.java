@@ -1,4 +1,3 @@
-package com.klolarion.programmers;
 
 public class JK {
     class Solution {
