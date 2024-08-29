@@ -1,4 +1,4 @@
-package com.klolarion.programmers;
+package Programmers.P77884;
 
 public class TO {
         public int solution(int left, int right) {
